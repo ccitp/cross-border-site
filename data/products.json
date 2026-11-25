@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "slug": "camping-backpack-40l",
+      "title": "Camping Backpack 40L",
+      "date": "2026-11-22",
+      "tags": [
+        "Outdoor",
+        "OEM"
+      ],
+      "cover": "assets/img/test/camping-backpack-40l.jpg",
+      "url": "products/camping-backpack-40l.html",
+      "tagline": "Water-resistant 40L pack with reinforced base and YKK zippers — built for outdoor retail and private label."
+    },
+    {
+      "slug": "insulated-bottle-500",
+      "title": "Insulated Bottle 500ml",
+      "date": "2026-11-19",
+      "tags": [
+        "Drinkware",
+        "OEM"
+      ],
+      "cover": "assets/img/test/insulated-bottle-500.jpg",
+      "url": "products/insulated-bottle-500.html",
+      "tagline": "Double-wall vacuum bottle, 12-hour heat retention, powder-coated finish in eight colours."
+    },
+    {
+      "slug": "folding-camp-chair",
+      "title": "Folding Camp Chair",
+      "date": "2026-11-15",
+      "tags": [
+        "Outdoor",
+        "Furniture"
+      ],
+      "cover": "assets/img/test/folding-camp-chair.jpg",
+      "url": "products/folding-camp-chair.html",
+      "tagline": "Alloy-frame folding chair at 2.1 kg, 120 kg load rating, packs into its own carry sleeve."
+    },
+    {
+      "slug": "bamboo-cutlery-set",
+      "title": "Bamboo Cutlery Set",
+      "date": "2026-11-11",
+      "tags": [
+        "Kitchen",
+        "Eco"
+      ],
+      "cover": "assets/img/test/bamboo-cutlery-set.jpg",
+      "url": "products/bamboo-cutlery-set.html",
+      "tagline": "Four-piece bamboo travel cutlery in a cotton roll — plastic-free, compostable, retail-ready."
+    },
+    {
+      "slug": "wireless-charging-pad",
+      "title": "Wireless Charging Pad 15W",
+      "date": "2026-11-06",
+      "tags": [
+        "Electronics",
+        "OEM"
+      ],
+      "cover": "assets/img/test/wireless-charging-pad.jpg",
+      "url": "products/wireless-charging-pad.html",
+      "tagline": "15W Qi2 pad with foreign-object detection and a fabric-wrapped aluminium body."
+    },
+    {
+      "slug": "silicone-storage-bag",
+      "title": "Silicone Storage Bag Set",
+      "date": "2026-10-28",
+      "tags": [
+        "Kitchen",
+        "Eco"
+      ],
+      "cover": "assets/img/test/silicone-storage-bag.jpg",
+      "url": "products/silicone-storage-bag.html",
+      "tagline": "Reusable food-grade silicone bags in three sizes, leak-proof zip, dishwasher and freezer safe."
+    }
+  ]
+}
