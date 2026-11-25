@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "slug": "b2b-inquiry-reply",
+      "title": "How to answer a B2B inquiry in one message",
+      "date": "2026-11-24",
+      "tags": [
+        "Sales"
+      ],
+      "cover": "",
+      "url": "blog/b2b-inquiry-reply.html",
+      "excerpt": "Most first replies lose the buyer by answering only one of the four things they actually asked."
+    },
+    {
+      "slug": "product-photography-basics",
+      "title": "White background or lifestyle: which photo sells first",
+      "date": "2026-11-21",
+      "tags": [
+        "Photography"
+      ],
+      "cover": "",
+      "url": "blog/product-photography-basics.html",
+      "excerpt": "Buyers scan for facts before they feel anything. Lead with the clean shot, follow with the context."
+    },
+    {
+      "slug": "moq-negotiation",
+      "title": "Three MOQ mistakes that cost you the order",
+      "date": "2026-11-17",
+      "tags": [
+        "Sourcing"
+      ],
+      "cover": "",
+      "url": "blog/moq-negotiation.html",
+      "excerpt": "Quoting a hard MOQ before knowing the buyer's channel is the fastest way to end a conversation."
+    },
+    {
+      "slug": "marketplace-vs-own-site",
+      "title": "Marketplace and your own site: why both",
+      "date": "2026-11-13",
+      "tags": [
+        "Strategy"
+      ],
+      "cover": "",
+      "url": "blog/marketplace-vs-own-site.html",
+      "excerpt": "Marketplaces rent you traffic. A static site owns the spec sheet, the inquiry, and the follow-up."
+    },
+    {
+      "slug": "freight-selection-2026",
+      "title": "Freight selection notes for small cross-border orders",
+      "date": "2026-11-09",
+      "tags": [
+        "Logistics"
+      ],
+      "cover": "",
+      "url": "blog/freight-selection-2026.html",
+      "excerpt": "Under 2 CBM the answer is rarely sea freight, even when the per-kilo number looks better."
+    }
+  ]
+}
