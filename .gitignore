@@ -1,0 +1,31 @@
+# --- data sources for demo content (live data lives in data/products.json) ---
+*.test.json
+
+# --- local backups of the original placeholder data ---
+*.placeholder.bak
+
+# --- the publishing tool stays local; it must not be deployed to the public site ---
+publisher.html
+
+# --- internal build/QA/docs, not part of the published site ---
+scripts/
+DEPLOY.md
+README.md
+design-spec-v2.md
+qa-v2-report.md
+
+# --- orphaned pages from the earlier placeholder set (unlinked, must not deploy) ---
+products/first-product.html
+products/second-product.html
+blog/building-in-public.html
+blog/how-this-site-ships.html
+
+# --- 本地凭据文件，绝不提交 ---
+.gh_token
+.env
+.env.local
+
+# --- OS / editor noise ---
+.DS_Store
+Thumbs.db
+desktop.ini
