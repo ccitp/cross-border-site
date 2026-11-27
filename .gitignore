@@ -22,6 +22,7 @@ blog/how-this-site-ships.html
 
 # --- 本地凭据文件，绝不提交 ---
 .gh_token
+.cf_token
 .env
 .env.local
 
