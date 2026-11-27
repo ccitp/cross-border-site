@@ -1,6 +1,17 @@
 {
   "posts": [
     {
+      "slug": "www.jd.com",
+      "title": "ceshi",
+      "excerpt": "cesh",
+      "date": "2026-11-27",
+      "tags": [
+        "ceshi"
+      ],
+      "cover": "",
+      "url": "blog/www.jd.com.html"
+    },
+    {
       "slug": "b2b-inquiry-reply",
       "title": "How to answer a B2B inquiry in one message",
       "date": "2026-11-24",
